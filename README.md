@@ -1,2 +1,2 @@
-# moonway.stargazer-game.com
-(moonway) STARGAZER website source!
+# moonway.screwltd.com
+(moonway) website source!
